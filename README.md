@@ -1,3 +1,4 @@
 # Algorithms
-* BT/BST tree
-* AVL tree
+* BT
+* BST
+* AVL
