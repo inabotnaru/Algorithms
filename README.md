@@ -1,4 +1,7 @@
 # Algorithms
+* Linked Lists
+* Queue
+* Stack
 * Arrays
 * Strings
 * ArrayList
